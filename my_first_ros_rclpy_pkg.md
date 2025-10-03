@@ -26,6 +26,7 @@ source ./install/local_setup.bash
 ros2 run my_first_ros_rclpy_pkg helloworld_publisher
 ```
 
+----
 ### 2. Launch file
 
 **[Terminal 1]**
