@@ -14,7 +14,7 @@
 > ~/ROS_Robotics_Playgrounds
 
 # build
-colcon build --symlink-install --packages-select msg_srv_action_interface_example topic_service_action_rclcpp_example
+colcon build --symlink-install --packages-select ros2_monocular_slam topic_service_action_rclcpp_example
 
 # update environment
 source ./install/local_setup.bash
