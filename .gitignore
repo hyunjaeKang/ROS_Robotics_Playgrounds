@@ -56,3 +56,5 @@ install/**
 log/**
 
 **temp**
+
+**.DS_Store**
