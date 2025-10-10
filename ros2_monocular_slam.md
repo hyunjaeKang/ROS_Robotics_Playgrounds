@@ -1,7 +1,7 @@
 ## ros2_monocular_slam
 
 ----
-### Saptured screem
+### Screenshot
 
 <img src = "./data/ros2_monocular_slam.jpeg">
 
