@@ -10,14 +10,14 @@
 <table>
   <thead>
     <tr>
-      <th style="text-align: center;" >Playground</th>
-      <th style="text-align: center;" >Description</th>
+      <th>Playground</th>
+      <th>Description</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <th style="text-align: left;" rowspan="1"><a href="https://github.com/hyunjaeKang/ROS_Robotics_Playgrounds/blob/main/my_first_ros_rclpy_pkg.md">my_first_ros_rclpy_pkg</a></th>
-      <th style="text-align: left;" rowspan="1">Simple ROS2 Publisher–Subscriber application using the <u><i>Python ROS client library (rclpy)</i></u>.</th>
+      <th><a href="https://github.com/hyunjaeKang/ROS_Robotics_Playgrounds/blob/main/my_first_ros_rclpy_pkg.md">my_first_ros_rclpy_pkg</a></th>
+      <th>Simple ROS2 Publisher–Subscriber application using the <u><i>Python ROS client library (rclpy)</i></u>.</th>
     </tr>
     <tr>
       <th style="text-align: left;" rowspan="1"><a href="https://github.com/hyunjaeKang/ROS_Robotics_Playgrounds/blob/main/my_first_ros_rclcpp_pkg.md">my_first_ros_rclcpp_pkg</a></th>
