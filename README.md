@@ -7,7 +7,7 @@
 ----
 ## ROS Playgrounds
 
-<table  border="1">
+<table>
   <thead>
     <tr>
       <th style="text-align: center;" >Playground</th>
