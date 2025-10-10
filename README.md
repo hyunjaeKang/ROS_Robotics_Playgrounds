@@ -16,24 +16,24 @@
   </thead>
   <tbody>
     <tr>
-      <th style="text-align: left; padding: 10px;" rowspan="1"><a href="https://github.com/hyunjaeKang/ROS_Robotics_Playgrounds/blob/main/my_first_ros_rclpy_pkg.md">my_first_ros_rclpy_pkg</a></th>
-      <th style="text-align: left; padding: 10px;" rowspan="1">Simple ROS2 Publisher–Subscriber application using the <u><i>Python ROS client library (rclpy)</i></u>.</th>
+      <th style="text-align: left;" rowspan="1"><a href="https://github.com/hyunjaeKang/ROS_Robotics_Playgrounds/blob/main/my_first_ros_rclpy_pkg.md">my_first_ros_rclpy_pkg</a></th>
+      <th style="text-align: left;" rowspan="1">Simple ROS2 Publisher–Subscriber application using the <u><i>Python ROS client library (rclpy)</i></u>.</th>
     </tr>
     <tr>
-      <th style="text-align: left; padding: 10px;" rowspan="1"><a href="https://github.com/hyunjaeKang/ROS_Robotics_Playgrounds/blob/main/my_first_ros_rclcpp_pkg.md">my_first_ros_rclcpp_pkg</a></th>
-      <th style="text-align: left; padding: 10px;" rowspan="1">Simple ROS2 Publisher–Subscriber application using the <u><i>C++ ROS client library (rclcpp)</i></u>.</th>
+      <th style="text-align: left;" rowspan="1"><a href="https://github.com/hyunjaeKang/ROS_Robotics_Playgrounds/blob/main/my_first_ros_rclcpp_pkg.md">my_first_ros_rclcpp_pkg</a></th>
+      <th style="text-align: left;" rowspan="1">Simple ROS2 Publisher–Subscriber application using the <u><i>C++ ROS client library (rclcpp)</i></u>.</th>
     </tr>
     <tr>
-      <th style="text-align: left; padding: 10px;" rowspan="1"><a href="https://github.com/hyunjaeKang/ROS_Robotics_Playgrounds/blob/main/topic_service_action_rclpy_example.md">topic_service_action_rclpy_example</a></th>
-      <th style="text-align: left; padding: 10px;" rowspan="1"><u><i>Python ROS2 example</i></u> demonstrating inter-node communication via <u><i>topic, service, and action with custom messages</i></u>. </th>
+      <th style="text-align: left;" rowspan="1"><a href="https://github.com/hyunjaeKang/ROS_Robotics_Playgrounds/blob/main/topic_service_action_rclpy_example.md">topic_service_action_rclpy_example</a></th>
+      <th style="text-align: left;" rowspan="1"><u><i>Python ROS2 example</i></u> demonstrating inter-node communication via <u><i>topic, service, and action with custom messages</i></u>. </th>
     </tr>
     <tr>
-      <th style="text-align: left; padding: 10px;" rowspan="1"><a href="https://github.com/hyunjaeKang/ROS_Robotics_Playgrounds/blob/main/topic_service_action_rclcpp_example.md">topic_service_action_rclcpp_example</a></th>
-      <th style="text-align: left; padding: 10px;" rowspan="1"><u><i>C++ ROS2 example</i></u> demonstrating inter-node communication via <u><i>topic, service, and action with custom messages</i></u>.</th>
+      <th style="text-align: left;" rowspan="1"><a href="https://github.com/hyunjaeKang/ROS_Robotics_Playgrounds/blob/main/topic_service_action_rclcpp_example.md">topic_service_action_rclcpp_example</a></th>
+      <th style="text-align: left;" rowspan="1"><u><i>C++ ROS2 example</i></u> demonstrating inter-node communication via <u><i>topic, service, and action with custom messages</i></u>.</th>
     </tr>
     <tr>
-      <th style="text-align: left; padding: 10px;" rowspan="1"><a href="https://github.com/hyunjaeKang/ROS_Robotics_Playgrounds/blob/main/ros2_monocular_slam.md">ros2_monocular_slam</a></th>
-      <th style="text-align: left; padding: 10px;" rowspan="1">ROS2 application demonstrating the <u><i>front-end of Monocular SLAM</i></u> for visual odometry and mapping.</th>
+      <th style="text-align: left;" rowspan="1"><a href="https://github.com/hyunjaeKang/ROS_Robotics_Playgrounds/blob/main/ros2_monocular_slam.md">ros2_monocular_slam</a></th>
+      <th style="text-align: left;" rowspan="1">ROS2 application demonstrating the <u><i>front-end of Monocular SLAM</i></u> for visual odometry and mapping.</th>
     </tr>
     </tbody>
 </table>
