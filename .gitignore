@@ -56,5 +56,6 @@ install/**
 log/**
 
 **temp**
-
 **.DS_Store**
+.vscode
+.sync.ffs_db
